@@ -48,7 +48,12 @@ int main(){
     }
 
     }
-    
+//input
+Enter number of elements : 5
+Enter elements in sorted order : 1 2 3 4 5
+Element to be searched : 3
+//output
+Element is found at 3    
 
 
 
