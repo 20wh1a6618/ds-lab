@@ -37,8 +37,9 @@ int main(){
 
 }
 //input
-Enter number of elements:2 3 4
-Enter element to be found : 4
+Enter size : 2
+Enter 2 elements : 5 6
+Element to be searched : 3    
 //output
-Element is found at 2    
+Element is not found
 
