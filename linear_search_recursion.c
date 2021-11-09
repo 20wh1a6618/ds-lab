@@ -41,3 +41,8 @@ int main(){
 
 
 }
+//input:
+Enter number of elements : 2 3 4
+Enter element to be found : 4
+//output:
+Element is found at 2    
