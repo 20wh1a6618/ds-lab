@@ -11,24 +11,6 @@ int main(){
         printf("Enter your choice: ");
         scanf("%d",&choice);
         switch(choice){
-    #include<stdio.h>
-2
-#include<stdlib.h>
-3
-void push(int );
-4
-int pop();
-5
-void display();
-6
-int a[5],top=-1;
-7
-int main(){
-8
-    while(1){
-9
-        int choice, element, t;
-10
             case 1:
                 //int element;
                 printf("Enter element: ");
