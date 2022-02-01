@@ -76,4 +76,73 @@ case 5: exit(0);
 }
 }
 }
+output:
+Enter your choice
+1-Create
+2-preorder
+3-inorder
+4-postorder
+5-exit
+1
+23
+Enter your choice
+1-Create
+2-preorder
+3-inorder
+4-postorder
+5-exit
+1
+19
+Enter your choice
+1-Create
+2-preorder
+3-inorder
+4-postorder
+5-exit
+1
+56
+Enter your choice
+1-Create
+2-preorder
+3-inorder
+4-postorder
+5-exit
+1
+52
+Enter your choice
+1-Create
+2-preorder
+3-inorder
+4-postorder
+5-exit
+1
+36
+Enter your choice
+1-Create
+2-preorder
+3-inorder
+4-postorder
+5-exit
+2
+19 36 52 56 23 Enter your choice
+1-Create
+2-preorder
+3-inorder
+4-postorder
+5-exit
+3
+19 23 36 52 56 Enter your choice
+1-Create
+2-preorder
+3-inorder
+4-postorder
+5-exit
+4
+19 36 52 56 23 Enter your choice
+1-Create
+2-preorder
+3-inorder
+4-postorder
+5-exit
+5
 
